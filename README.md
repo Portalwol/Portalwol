@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Portalwol
-- 👀 I’m interested in portal
-- 🌱 I’m currently learning nothing
+- 👀 I’m interested in games or scripts 
+- 🌱 I’m currently learning pythbon
 - 💞
-- 📫 How to reach me wol#4423 discord
+- 📫 How to reach me wol#0001 discord
 
 <!---
 Portalwol/Portalwol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
