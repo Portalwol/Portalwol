@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Portalwol
-- 👀 I’m interested in games or scripts 
-- 🌱 I’m currently learning pythbon
-- 💞
-- 📫 How to reach me @wol. discord
+- 👋 Hi, i'm wol
+- 👀 interested in game scripts / anytthing ingeneral
+- 🌱 professional max 5x claude plan user.
+- 📫 How to reach me @ffffbe discord
 
 <!---
 Portalwol/Portalwol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
